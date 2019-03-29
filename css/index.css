@@ -373,8 +373,8 @@ footer {
 }
 .contact {
   margin: 30px auto;
-  width: 80%;
-  padding: 10px;
+  width: 90%;
+  padding: 10px 0 10px 8%;
   border: 1px solid #5E6164;
   border-radius: 10px;
 }
@@ -416,7 +416,7 @@ footer {
 }
 @media (max-width: 500px) {
   .contact button {
-    width: 100%;
+    width: 90%;
     background-color: #23293B;
     color: white;
     cursor: pointer;
