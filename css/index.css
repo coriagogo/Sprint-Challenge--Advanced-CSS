@@ -257,9 +257,6 @@ footer {
     width: 100%;
     margin: 0 auto;
   }
-  .home .visit-planets h3 {
-    margin-left: 10px;
-  }
 }
 .home .walk {
   margin-top: 60px;
@@ -315,9 +312,6 @@ footer {
     width: 100%;
     margin: 0 auto;
   }
-  .home .walk .walk-text h3 {
-    margin-left: 10px;
-  }
 }
 .home .walk .walk-img {
   width: 46%;
@@ -343,33 +337,6 @@ footer {
     margin: 10px auto;
     padding: 20px 0;
   }
-}
-.home .contact {
-  display: flex;
-  justify-content: center;
-  margin: 30px auto;
-  width: 80%;
-  padding: 10px;
-  border: 1px solid #5E6164;
-  border-radius: 10px;
-}
-.home .contact label {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 10px auto;
-  font-size: 1.6rem;
-  font-family: 'Ubuntu', sans-serif;
-}
-.home .contact input,
-.home .contact textarea {
-  width: 90%;
-  border: 1px solid #5E6164;
-  border-radius: 2px;
-  font-size: 1.6rem;
-}
-.home .contact textarea {
-  height: 200px;
-  resize: none;
 }
 .contact {
   margin: 30px auto;
